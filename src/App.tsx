@@ -8,7 +8,9 @@ export default function App() {
 
 const contacts=[
   {
+
 id:"1", name:"tata",email:"aine@gmail.com"
+
   },
    {
 id:"2", name:"kisha",email:"kisha@gmail.com"
